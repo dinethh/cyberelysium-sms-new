@@ -17,7 +17,7 @@
 
                     </ul>
                     <span class="p-3 bg-blue-500 h-3 w-4">
-                      <Link href="login">LoginOut</Link>
+                      <Link href="login">LogOut</Link>
                      </span>
 
                 </div>
